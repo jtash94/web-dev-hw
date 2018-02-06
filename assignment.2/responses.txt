@@ -1,0 +1,7 @@
+1. When sent from one IP to another, data travels from the first router, broken into much smaller pieces of data in binary. Using the other computer's router/IP info, the information finds its final destination and the user receives the data, put back into its original alphabet format and order for readability. 
+
+2. The IP address, an ID number, remains the same on most networks for individual computers, while a DNS is a way to identify and store information on a specific website. For example, google.com is a DN, and will allow the user to always locate google. DNS translates the human-used alphabet to unchanging numbers, not unlike an IP address, but it's used for website destinations instead of individual machines.
+
+3. Cookies are small pieces of individualized data stored to help the internet provide tailored ads, sites the user may enjoy based on their prior browsing habits, and allows the network and visited sides alike to "know" it's users, in some respect. They can be enabled or disabled, for privacy purposes. 
+
+4. Three parts are the domain name (google), protocol (https://) and path (gray-cat-images). 
