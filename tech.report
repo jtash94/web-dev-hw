@@ -1,2 +1,5 @@
 Assignment-2.README
-A Version Control System orders changeable files such as this one from its original format to corresponding changes chronologically. It allows a user to troubleshoot if necessary, since a history of all changes are made available and makes reviewing code much easier.
+A Version Control System orders changeable files such as this one from its original format to 
+corresponding changes chronologically. 
+It allows a user to troubleshoot if necessary, 
+since a history of all changes are made available and makes reviewing code much easier.
