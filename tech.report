@@ -1,10 +1,8 @@
 Assignment-2.README
-<<<<<<< HEAD
+HEAD
 A Version Control System orders changeable files such as this one from its original format to corresponding changes chronologically. It allows a user to troubleshoot if necessary, since a history of all changes are made available and makes reviewing code much easier.
-<link>web-dev-hw/assignment.2/responses.txt<link>
-=======
-A Version Control System orders changeable files such as this one from its original format to 
-corresponding changes chronologically. 
-It allows a user to troubleshoot if necessary, 
+web-dev-hw/assignment.2/responses.txt
+A Version Control System orders changeable files such as this one from its original format to
+corresponding changes chronologically.
+It allows a user to troubleshoot if necessary,
 since a history of all changes are made available and makes reviewing code much easier.
->>>>>>> 932ce9dc191aa0678e620b3f80c11dfe0a43ccb5
