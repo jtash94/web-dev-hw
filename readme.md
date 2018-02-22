@@ -5,9 +5,13 @@
 <li>Semantic markup is when tags are used stylistically to convey human-specific meaning, and structural markup refers to the correct ordering and set-up of an .html for the sake of the computer's accurate reading of the document. </li>
 <li>My work cycle was to begin reading materials, then I did the index with bare-bones elements only. After, I put in the formatting elements, going step-by-step as outlined on the assignment page. Then I did the following two pages in the same fashion, pushing to github periodically, followed by the readme.</li>
 
+<<<<<<< HEAD
 </ol>
 
 <img src="images/screenshot.a3.jpeg"/>
+=======
+<img src= "images/screenshot.a3.jpeg"/>
+>>>>>>> 6f02e488eac4e7b9176cc6984838e0e1902eb41b
 
 
 </html>
