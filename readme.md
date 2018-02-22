@@ -9,9 +9,9 @@
 </ol>
 
 <img src="images/screenshot.a3.jpeg"/>
-=======
-<img src= "images/screenshot.a3.jpeg"/>
->>>>>>> 6f02e488eac4e7b9176cc6984838e0e1902eb41b
+
+
+
 
 
 </html>
