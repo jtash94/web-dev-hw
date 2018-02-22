@@ -8,7 +8,7 @@
 </ol>
 
 
-<img src="images/screenshot.a3.jpeg"/>
+<img src="screenshot.a3.jpeg"/>
 
 
 
