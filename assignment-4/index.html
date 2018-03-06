@@ -187,20 +187,30 @@
             <td>2/60</td>
             <td>0/60</td>
           </tr>
-
+        </table>
 
 
         <!-- Step 19 -->
-        <table>
+      <p>
+        Username:
+        <input type="text" name="username" id="username" required/>
+      </p>
+      <p>
+        Password:
+        <input type="password" name="password" id="password" required/>
+      </p>
 
-        </table>
-        <p>Yes! Sign me up for weekly e-mail alerts.
 
-        </p>
-
-</form>
+      <form
+      action="http://www.example.com/register.php"
+        method="post">
+        <p>Yes! Sign me up for weekly e-mail alerts.</p>
+          <input type="text" name="newsletter" id="newsletter" checked />
+          <input type="submit" name="submit" id="subscribe"/>
+      </form>
+      </fieldset>
     </main>
     <!-- Step 20 -->
-
+<img src="images/registration_station.jpg" alt="photo urging you to register soon" title="Register Today!" width="500" height="333" />
   </body>
 </html>
