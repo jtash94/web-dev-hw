@@ -28,6 +28,7 @@
 
     <main>
       <!-- Step 1 -->
+<form action="http://www.example.com/register.php" method="get"/>
 
 
       <!-- Part 1: Basic Info -->
@@ -35,17 +36,21 @@
         <legend>Contact Details</legend>
         <!-- Step 2 (Name) -->
         <p>Name:
-          <input type="text" name="name" id="name-first" />
-          <input type="text" name="name" id="name-middle" />
-          <input type="text" name="name" id="name-last" />
+          <input type="text" name="First" id="name-first" />
+          <input type="text" name="MI" id="name-middle" maxlength="3" size="3" />
+          <input type="text" name="Last" id="name-last" />
         </p>
         <!-- Step 3 (E-mail) -->
-        <p>E-mail:
+        <p>Please enter your email address:</p>
+        <input type="email" name="email" autofocus />
+        <input type="submit" value="submit"/>
 
-        </p>
+        <p>E-mail:you@email.com
+          </p>
 
         <!-- Step 4 (Date) -->
         <p>Date of Birth:
+          <input type="Text" name="name" placeholder="mm/dd/yyyy"/>
 
         </p>
 
@@ -53,7 +58,9 @@
         <p>Have you taken a web design course before?</p>
             <input id="yes" type="radio" name="prev-course" value="y">
               <label for="yes">Yes</label>
-
+            <br />
+            <input id="no" type="radio" name="prev--course" value="n">
+              <label for="no">No</label>
       </fieldset>
 
 
@@ -70,21 +77,50 @@
           </figure>
           <p>What is your preferred browser?</p>
           <p><i>Choose one:</i></p>
-          <!-- Step 6 -->
+          <input type="radio" name="level" value="chrome" checked /> Chrome
+          <br />
+          <input type="radio" name="level" value="fire" /> Firefox
+          <br />
+          <input type="radio" name="level" value="intexplore" /> Internet Explorer
+          <br />
+          <input type="radio" name="level" value="saf" /> Safari
+          <br />
+          <input type="radio" name="level" value="Opera" /> Opera
+          <br />
+          <input type="radio" name="level" value="MicroEdge" /> Microsoft Edge
+          <br />
+          <input type="radio" name="level" value="other" /> Other
 
         </div>
 
         <!-- LANGUAGES --><div id="languages">
           <!-- Step 7 -->
+          <img src="/images/languages.png" alt="clip art of a CSS icon" title="Chatting in Code" width="100" height="100"/>
 
           <p>What languages are you familiar with?</p>
           <p><i>Choose one or more:</i></p>
             <!-- Step 8 -->
+            <input type="checkbox" name="language" value="HTML"/> HTML
+            <br />
+            <input type="checkbox" name="language" value="CSS" /> CSS
+            <br />
+            <input type="checkbox" name="language" value="Java" /> JavaScript
+            <br />
+            <input type="checkbox" name="language" value="PHP" /> PHP
+            <br />
+            <input type="checkbox" name="language" value="Ruby" /> Ruby
+            <br />
+            <input type="checkbox" name="language" value="Python" /> Python
+            <br />
+            <input type="checkbox" name="language" value="other" /> Other
+
 
         </div>
 
         <!-- SHORT-ANSWER--><div id="short-answer">
           <!-- Step 9 -->
+          <img src="./images/experience.png/" alt="Clip art of tools on a desktop display" title="In the Know?"/>
+          <caption>In the Know?</caption>
 
           <p>Introduce yourself!</p>
 
@@ -116,13 +152,13 @@
 
         <!-- Step 19 -->
         <table>
-          
+
         </table>
         <p>Yes! Sign me up for weekly e-mail alerts.
 
         </p>
 
-
+</form>
     </main>
     <!-- Step 20 -->
 
