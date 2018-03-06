@@ -127,18 +127,30 @@
           <p>“Hi! I'm a
             <select name="experience-level">
             <!-- Step 10 -->
+            <input type="radio" name="level" value="gup" /> Guppy
+            < br/>
+            <input type="radio" name="level" value="beg" /> Beginner
+            < br/>
+            <input type="radio" name="level" value="nov" checked /> Novice
+            < /br>
+            <input type="radio" name="level" value="journey" /> Journeyman
+            < br/>
+            <input type="radio" name="level" value="exp" /> Expert
+            < br/>
+            <input type="radio" name="level" value="wiz" /> Wizard
 
             </select>
             web designer or developer.”</p>
 
           <p>“Last year, I spent
             <!-- Step 11 -->
-            <input type="text" name="experince-time"
+            <input type="numbers" name="experince-time"
             id="experince-time" placeholder="##" min="0" max="12" size="2"/>
             months studying or working in this field.”</p>
 
           <!-- Step 12 (textarea) -->
-          “I think my most difficult task will be...
+          <textarea name="short answer" id="answer-textarea">“I think my most difficult task will be...</textarea>
+        </p>
         </div>
       </fieldset>
 
