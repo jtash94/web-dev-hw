@@ -11,13 +11,17 @@ body {
       text-align: center;
     }
 
-    div, .container {
+    .container {
       border-style: solid;
       border-style: groove;
       border-width: 6px;
       border-color:rgb(25,25,112);
+
     }
-    div, iframe {
+    .reversed {
+      
+    }
+     .iframe {
       width: 100px;
       height: 25px;
       margin: 0 auto;
