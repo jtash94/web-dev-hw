@@ -14,14 +14,14 @@ body {
 
     .container {
       opacity: .75;
-      height: 240px;
+      height: 220px;
       margin-left: 50px;
       margin-right: 50px;
       }
 
       .reversed {
         opacity: .5;
-        height: 220px;
+        height: 200px;
         margin-left: 50px;
         margin-right: 50px;
       }
