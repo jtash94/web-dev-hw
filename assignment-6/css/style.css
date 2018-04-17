@@ -5,8 +5,8 @@ body {
   border-color:rgb(64,183,226);
 }
      h1 {
-      color:rgb(255,192,203);
-      font-family: Impact cursive;
+      color:rgb(128,0,32);
+      font-family: Impact;
       font-size: 70px;
       text-align: center;
     }
@@ -19,7 +19,5 @@ body {
 
       .reversed {
         opacity: .5;
-        height: 220 px;
+        height: 220px;
       }
-
-    
