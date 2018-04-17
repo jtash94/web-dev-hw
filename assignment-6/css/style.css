@@ -14,7 +14,12 @@ body {
     .container {
       opacity: .75;
       height: 240px;
-      
+
       }
 
-    .
+      .reversed {
+        opacity: .5;
+        height: 220 px;
+      }
+
+    
