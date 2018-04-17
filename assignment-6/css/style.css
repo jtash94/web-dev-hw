@@ -12,6 +12,5 @@ body {
     }
 
     .container {
-      
-
-    }
+      opacity: .75;
+      }
