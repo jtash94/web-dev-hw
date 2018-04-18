@@ -3,7 +3,7 @@ body {
   border-style: solid;
   border-width: 8px;
   border-color:rgb(64,183,226);
-  align: center; 
+  align: center;
 
       }
 
@@ -38,4 +38,5 @@ body {
       .iframe {
         align-content: right !important;
         opacity: 10;
+        position: absolute;
       }
