@@ -28,8 +28,8 @@ body {
 
     .container {
 
-      height: 800px;
-      width: 800px;
+      height: 500px;
+      width: 500px;
       margin-top: 0px;
       position: absolute;
       z-index: 1;
@@ -58,5 +58,5 @@ body {
         width: 40%;
         z-index: 2;
         background-color: rgb(255,192,203);
-        opacity: .7 !important;
+        opacity: .7;
       }
