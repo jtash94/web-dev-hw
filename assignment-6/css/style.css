@@ -1,3 +1,7 @@
+html {
+  width: 800px;
+  height: 800px;
+}
 body {
   background-color:rgb(227,190,66);
   border-style: solid;
@@ -35,6 +39,6 @@ body {
 
         margin-right: auto;
         margin-left: auto;
-        
+
         position:absolute;
       }
