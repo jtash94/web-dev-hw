@@ -2,7 +2,7 @@
 html {
   height: 800px;
   width: 800px;
-  margin: auto;
+
 }
 body  {
   background-color:rgb(227,190,66);
@@ -13,8 +13,8 @@ body  {
       color:rgb(128,0,32);
       font-family: Impact;
       font-size: 70px;
-      height: 250px;
-
+      height: 200px;
+      align-text: center;
   }
 
     .container {
@@ -23,7 +23,8 @@ body  {
       width: 50%;
       left: 25%;
       right: 25%;
-      margin: auto;
+      margin-top: 210px;
+      position: absolute;
       z-index: 1;
 
       }
@@ -32,9 +33,11 @@ body  {
         opacity: .75;
         position: absolute;
         z-index: 1.5;
+        height: 300px;
         width: 50%;
         right: 20%;
         left: 20%;
+        margin-top: 230px;
         opacity: 10;
       }
 /* add a comment */
@@ -42,10 +45,11 @@ body  {
 
 
         position: absolute;
-        height: 100px;
-        margin-top: 35px;
-        margin-right: 35px;
+        height: 200px;
+        margin-top: 300px;
+        margin-right: 300px;
+        margin-left: 300px;
         width: 70%;
-        padding: 50px;
-
+        z-index: 2;
+        background-color: rgb(255,192,203);
       }
