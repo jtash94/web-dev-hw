@@ -20,6 +20,8 @@ body  {
       height: 50% !important;
       width: 100% !important;
       align-content: stretch;
+      position: absolute;
+      z-index: 1;
 
       }
 
@@ -28,11 +30,14 @@ body  {
         height: 50% !important;
         width: 100% !important;
         align-content: stretch;
+        position: absolute;
+        z-index: 1;
       }
 
       .frame {
 
         position: absolute;
+        z-index: 2;
         bottom: 500px;
         left: 500px;
         align-content: center
