@@ -51,12 +51,13 @@ body  {
 
 
         position: absolute;
-        height: 200px;
+        height: 180px;
         margin-top: 25px;
         margin-right: 10px;
         margin-left: 10px;
         left: 100px;
         width: 40%;
         z-index: 2;
-        background-color: rgb(255,192,203);
+        background-color: rgb(255,192,203,0);
+        
       }
