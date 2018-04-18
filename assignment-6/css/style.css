@@ -33,10 +33,4 @@ body {
         margin-top: 20px;
         color: rgb(128,0,32)
 /* having a somewhat difficult time with cascading. */
-      }
-
-      .iframe {
-        align-content: right !important;
-        opacity: 10;
-        position: absolute;
-      }
+      
