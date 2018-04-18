@@ -5,8 +5,8 @@
 
 body {
   background-color: rgb(227,190,66) !important;
-  height: 800px;
-  width: 800px;
+  height: 800px !important;
+  width: 800px !important;
 
 }
 
