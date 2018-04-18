@@ -66,5 +66,7 @@ body  {
         margin-bottom: 10px;
         margin-left: 50px;
         opacity: .5;
+        position: absolute;
+        z-index:4;
 
       }
