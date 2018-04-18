@@ -32,8 +32,9 @@ body {
       }
 
       .frame {
-        display: block;
+        
         margin-right: auto;
         margin-left: auto;
         width: 35%;
+        position:absolute;
       }
