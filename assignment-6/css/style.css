@@ -26,7 +26,7 @@ body  {
       top-margin: auto;
       bottom-margin: auto;
       position: absolute;
-      z-index: 1;
+      z-index: 2;
 
       }
 
@@ -38,14 +38,14 @@ body  {
         right: 0%;
         margin: auto;
         position: absolute;
-        z-index: 2;
+        z-index: 3;
       }
 /* add a comment */
       .frame {
 
 
         position: relative;
-        z-index:3;
+        z-index: 4;
         left: 0%;
         right: 0%;
         margin: auto;
