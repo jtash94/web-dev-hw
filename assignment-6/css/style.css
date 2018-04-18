@@ -22,7 +22,7 @@ body  {
       height: 100%;
       width: 100%;
       left: 50%;
-      right: 50%
+      right: 50%;
       position: absolute;
       z-index: 1;
 
@@ -30,8 +30,8 @@ body  {
 
       .reversed {
         opacity: .75;
-        height: 80%;
-        width: 80%;
+        height: 50%;
+        width: 50%;
         left: 50%;
         right:50%;
         align-content: center;
@@ -44,8 +44,8 @@ body  {
 
         position: absolute;
         z-index:3;
-        height: 60%;
-        width: 60%;
+        height: 50%;
+        width: 50%;
         left: 50%;
         right: 50%;
 
