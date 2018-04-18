@@ -16,29 +16,31 @@ body {
       font-family: Impact;
       font-size: 70px;
       text-align: center;
-
-
-      }
+  }
 
     .container {
       opacity: 10;
-      height: 400px !important;
-      width: 800px !important;
-      align: center;
+      height: 50% !important;
+      width: 100% !important;
+      margin-right: auto;
+      margin-left: auto;
+      display: block;
+
       }
 
       .reversed {
         opacity: .75;
-        height: 400px !important;
-        width: 800px !important;
-        size: 700px;
-        align: center;
+        height: 50% !important;
+        width: 100% !important;
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
       }
 
       .frame {
 
         margin-right: auto;
         margin-left: auto;
-
+        display: block;
         position:absolute;
       }
