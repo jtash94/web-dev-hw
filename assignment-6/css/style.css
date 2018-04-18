@@ -22,7 +22,7 @@ body {
       margin-right: 50px;
       margin-left:50px;
       margin-top: 5px;
-      size: 700px;
+      size: 700px !important;
 
       }
 
@@ -32,9 +32,9 @@ body {
         margin-left: 50px;
         margin-right: 50px;
         margin-top: 20px;
-        size: 700px;
+        size: 700px !important;
 
-/* having a somewhat difficult time with cascading. */
+/* having a somewhat difficult time with cascading */
 
       .iframe {
         align: center;
