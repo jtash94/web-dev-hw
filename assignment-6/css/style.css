@@ -23,7 +23,7 @@ body  {
   }
 
     .container {
-      opacity: 9;
+      
       height: 500px;
       width: 90%;
       left: 5%;
@@ -43,7 +43,7 @@ body  {
         right: 5%;
         left: 5%;
         margin-top: 15px;
-        opacity: 10;
+        opacity: .9;
       }
 /* add a comment */
       .frame {
