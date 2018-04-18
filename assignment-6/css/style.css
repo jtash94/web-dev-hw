@@ -15,16 +15,17 @@ body  {
       text-align: center !important;
       position: absolute;
       z-index: 1;
+      margin: auto;
+
   }
 
     .container {
       opacity: 10;
       height: 100%;
       width: 100%;
-      left-margin: auto;
-      right-margin: auto;
-      top-margin: auto;
-      bottom-margin: auto;
+      left: 0%;
+      right: 0%;
+      margin: auto;
       position: absolute;
       z-index: 2;
 
@@ -44,7 +45,7 @@ body  {
       .frame {
 
 
-        position: inherit;
+        position: absolute;
         z-index: 4;
         left: 0%;
         right: 0%;
