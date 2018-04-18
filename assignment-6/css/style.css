@@ -9,7 +9,7 @@ body  {
 
 }
 
-     h1 {
+     .headline {
       color:rgb(128,0,32);
       font-family: Impact;
       font-size: 60px;
