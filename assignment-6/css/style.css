@@ -58,5 +58,5 @@ body  {
         width: 60%;
         z-index: 2;
         background-color: rgb(255,192,203);
-        opacity: 4 !important;
+        opacity: .5 !important;
       }
