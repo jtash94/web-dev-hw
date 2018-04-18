@@ -1,12 +1,12 @@
 
 
-html {
-  max-width: 800px;
-  max-height: 800px;
-}
+
+
 
 body {
   background-color: rgb(227,190,66) !important;
+  height: 800px;
+  width: 800px;
 
 }
 
