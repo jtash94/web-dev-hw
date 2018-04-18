@@ -7,7 +7,7 @@ html {
 
 body {
   background-color: rgb(227,190,66);
-  
+
 }
 
      .headline {
@@ -34,10 +34,11 @@ body {
       position: absolute;
       z-index: 1;
 
+
       }
 
       .reversed {
-        opacity: .75;
+        opacity: .5;
         position: absolute;
         z-index: 1.5;
         height: 100px;
