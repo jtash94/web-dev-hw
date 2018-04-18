@@ -19,17 +19,18 @@ body {
 
     .container {
       opacity: .75;
-      height: 220px;
+      height: 200px;
       margin-right: 100px;
       margin-top: 5px;
-      position: absolute;
+
       }
 
       .reversed {
         opacity: .5;
-        height: 200px;
+        height: 100px;
         margin-left: 100px;
         margin-top: 20px;
+        color: rgb(128,0,32)
 /* having a somewhat difficult time with cascading. */
       }
 
