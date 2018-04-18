@@ -1,9 +1,12 @@
 
 
-
+html {
+  max-width: 800px;
+  max-height: 800px;
+}
 
 body {
-  background-color:rgb(227,190,66);
+  color:rgb(227,190,66);
   align-content: center !important;
 }
 
