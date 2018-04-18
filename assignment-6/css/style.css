@@ -2,7 +2,8 @@
 
 
 
-body { background-color:rgb(227,190,66);
+body {
+  background-color:rgb(227,190,66);
   align-content: center !important;
 }
 
@@ -38,16 +39,12 @@ body { background-color:rgb(227,190,66);
         z-index: 1.5;
         height: 400px;
         width: 100%;
-        right: 0%;
-        left: 0%;
         margin-top: 0px;
 
       }
 /* i've ruined everything */
 
       .frame {
-
-
         position: absolute;
         height: 110px;
         margin-top: 25px;
