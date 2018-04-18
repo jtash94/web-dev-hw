@@ -43,9 +43,8 @@ body  {
 
         position: absolute;
         z-index:3;
-        height: 50%;
-        width: 50%;
-        left-margin: 20px auto;
-        right-margin: 20px auto;
+        left: 0%;
+        right: 0%;
+        margin: auto;
 
       }
