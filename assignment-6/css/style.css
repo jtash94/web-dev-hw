@@ -22,6 +22,7 @@ body {
       margin-right: 50px;
       margin-left:50px;
       margin-top: 5px;
+      size: 700px;
 
       }
 
@@ -31,7 +32,8 @@ body {
         margin-left: 50px;
         margin-right: 50px;
         margin-top: 20px;
-        
+        size: 700px;
+
 /* having a somewhat difficult time with cascading. */
 
       .iframe {
