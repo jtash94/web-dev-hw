@@ -20,6 +20,8 @@ body  {
       opacity: 10;
       height: 100%;
       width: 100%;
+      left: 50%;
+      right: 50%
       align-content: center;
       position: absolute;
       z-index: 1;
@@ -30,11 +32,13 @@ body  {
         opacity: .75;
         height: 80%;
         width: 80%;
+        left: 50%;
+        right:50%;
         align-content: center;
         position: absolute;
         z-index: 2;
       }
-
+/* add a comment */ 
       .frame {
 
 
@@ -42,8 +46,7 @@ body  {
         z-index:3;
         height: 60%;
         width: 60%;
-        margin-top: 30%;
-        margin-left: 40%;
-        margin-right: 40%;
+        left: 50%;
+        right: 50%;
 
       }
