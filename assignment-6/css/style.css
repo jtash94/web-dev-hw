@@ -11,7 +11,7 @@ body {
       font-family: Impact;
       font-size: 70px;
       text-align: center;
-      margin-top; 0px;
+      margin-top: 0px !important;
       }
 
     .container {
@@ -25,10 +25,13 @@ body {
         opacity: .5;
         height: 200px;
         margin-left: 100px;
+        margin-top: 20px;
 /* having a somewhat difficult time with cascading. */
       }
 
       #iframe {
-        align-content: center;
+        align: center;
         opacity: .3;
+        margin-top: 25px;
+
       }
