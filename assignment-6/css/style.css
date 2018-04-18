@@ -17,13 +17,14 @@ body {
       opacity: .75;
       height: 220px;
       margin-right: 100px;
+      margin-top: 80px;
       }
 
       .reversed {
         opacity: .5;
         height: 200px;
         margin-left: 100px;
-
+/* having a somewhat difficult time with cascading. */
       }
 
       #iframe {
