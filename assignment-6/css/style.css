@@ -18,7 +18,7 @@ body  {
       margin-right: 50px;
       margin-left: 50px;
       position: absolute;
-      z-index: 0;
+      z-index: 3;
       right: 5%;
       left: 5%;
   }
