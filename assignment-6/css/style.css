@@ -21,6 +21,7 @@ body  {
       z-index: 3;
       right: 5%;
       left: 5%;
+      border-left: 2px solid rgb(255,192,203);
 
   }
 
