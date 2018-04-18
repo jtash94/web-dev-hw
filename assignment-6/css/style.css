@@ -18,7 +18,7 @@ body {
       }
 
     .container {
-      opacity: .75;
+      opacity: 10;
       height: 200px;
       margin-right: 50px;
       margin-left:50px;
@@ -27,7 +27,7 @@ body {
       }
 
       .reversed {
-        opacity: .5;
+        opacity: .75;
         height: 180px;
         margin-left: 50px;
         margin-right: 50px;
@@ -37,6 +37,6 @@ body {
       }
 
       .iframe {
-        align-content: left !important;
-
+        align-content: right !important;
+        opacity: 10;
       }
