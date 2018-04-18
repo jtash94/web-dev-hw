@@ -17,9 +17,9 @@ body  {
 
     .container {
       opacity: 10;
-      height: 100% !important;
-      width: 100% !important;
-      align-content: stretch;
+      height: 100%;
+      width: 100%;
+      align-content: center;
       position: absolute;
       z-index: 1;
 
@@ -27,9 +27,9 @@ body  {
 
       .reversed {
         opacity: .75;
-        height: 80% !important;
-        width: 80% !important;
-        align-content: stretch;
+        height: 80%;
+        width: 80%;
+        align-content: center;
         position: absolute;
         z-index: 1;
       }
