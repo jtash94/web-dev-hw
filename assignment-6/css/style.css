@@ -27,10 +27,10 @@ body  {
 
     .container {
 
-      height: 500px;
+      height: 800px;
       width: 90%;
-      left: 5%;
-      right: 5%;
+      left-margin: 5%;
+      right-margin: 5%;
       margin-top: 10px;
       position: absolute;
       z-index: 1;
@@ -41,12 +41,12 @@ body  {
         opacity: .75;
         position: absolute;
         z-index: 1.5;
-        height: 400px;
+        height: 800px;
         width: 90%;
         right: 5%;
         left: 5%;
         margin-top: 15px;
-        opacity: .7;
+
       }
 /* add a comment */
       .frame {
