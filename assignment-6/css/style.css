@@ -18,17 +18,16 @@ body {
 
     .container {
       opacity: 10;
-      height: 200px;
-      width: 50%;
-      size: 700px !important;
+      height: 400px;
+      width: 800px;
       align: center;
       }
 
       .reversed {
         opacity: .75;
-        height: 180px;
-        width: 50%;
-        size: 700px !important;
+        height: 400px;
+        width: 800px;
+        size: 700px;
         align: center;
       }
 
