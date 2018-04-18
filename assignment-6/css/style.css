@@ -62,8 +62,8 @@ body  {
         background-color: rgb(255,192,203);
         opacity: .7 !important;
       }
-      .last {
+      .neutron {
+        margin-bottom: 10px;
+        margin-left: 50px;
 
-      margin-bottom: 20px;
-      width: 1005;
       }
