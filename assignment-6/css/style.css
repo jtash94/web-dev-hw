@@ -2,10 +2,11 @@
 html {
   height: 800px;
   width: 800px;
+  margin: auto;
 }
 body  {
   background-color:rgb(227,190,66);
-  align-content: center;
+
 }
 
      h1 {
