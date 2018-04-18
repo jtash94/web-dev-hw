@@ -65,5 +65,6 @@ body  {
       .neutron {
         margin-bottom: 10px;
         margin-left: 50px;
+        opacity: .5;
 
       }
