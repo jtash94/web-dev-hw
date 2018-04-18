@@ -14,7 +14,7 @@ body  {
       font-size: 70px;
       text-align: center !important;
       position: absolute;
-      z-index: -1;
+      z-index: 1;
   }
 
     .container {
