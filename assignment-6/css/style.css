@@ -21,8 +21,10 @@ body  {
       opacity: 10;
       height: 100%;
       width: 100%;
-      left: 50%;
-      right: 50%;
+      left-margin: auto;
+      right-margin: auto;
+      top-margin: auto;
+      bottom-margin: auto;
       position: absolute;
       z-index: 1;
 
@@ -30,11 +32,12 @@ body  {
 
       .reversed {
         opacity: .75;
-        height: 50%;
-        width: 50%;
-        left: 50%;
-        right:50%;
-        align-content: center;
+        height: 100%;
+        width: 100%;
+        left-margin: auto;
+        right-margin: auto;
+        top-margin: auto;
+        bottom-margin: auto;
         position: absolute;
         z-index: 2;
       }
