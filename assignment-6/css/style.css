@@ -12,6 +12,8 @@ body  {
       font-family: Impact;
       font-size: 70px;
       text-align: center !important;
+      position: absolute;
+      z-index: -1;
   }
 
     .container {
