@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  color:rgb(227,190,66);
+  background-color:rgb(227,190,66);
   align-content: center !important;
 }
 
@@ -40,8 +40,8 @@ body {
         opacity: .75;
         position: absolute;
         z-index: 1.5;
-        height: 400px;
-        width: 100%;
+        height: 100px;
+        width: 50%;
         margin-top: 0px;
 
       }
