@@ -19,9 +19,7 @@ body  {
       opacity: 10;
       height: 50% !important;
       width: 100% !important;
-      margin-right: 20px;
-      margin-left: 20px;
-      position: relative;
+      align-content: stretch;
 
       }
 
@@ -29,9 +27,7 @@ body  {
         opacity: .75;
         height: 50% !important;
         width: 100% !important;
-        margin-right: 20px;
-        margin-left: 20px;
-        position: relative;
+        align-content: stretch;
       }
 
       .frame {
@@ -39,6 +35,6 @@ body  {
         position: absolute;
         bottom: 500px;
         left: 500px;
-        z-index: 1;
+        align-content: center
 
       }
