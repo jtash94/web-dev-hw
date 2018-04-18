@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <h1>Assignment-6 Readme.md</h1>
