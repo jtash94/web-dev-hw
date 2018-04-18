@@ -1,12 +1,7 @@
 
 body  {
   background-color:rgb(227,190,66);
-
-  width: 800px;
-  height: 800px;
-
-
-      }
+}
 
      h1 {
       color:rgb(128,0,32);
@@ -38,8 +33,9 @@ body  {
 
         position: absolute;
         z-index: 3;
-        height: 70%;
-        width: 70%;
-        align-content: center;
+        height: 50%;
+        width: 50%;
+        margin-top: 50px;
+        margin-left: 50px;
 
       }
