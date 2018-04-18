@@ -55,7 +55,8 @@ body {
         margin-right: 100px;
         background-color: rgb(255,192,203);
         left: 50px;
-        width: 80%;
+        right: 50px;
+        width: 100%;
         z-index: 2;
 
         opacity: .9;
