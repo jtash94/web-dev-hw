@@ -19,11 +19,12 @@ body  {
       margin: auto;
       right: 50%;
       left: 50%;
+      opacity: 10;
 
   }
 
     .container {
-      opacity: 10;
+      opacity: 9;
       height: 100%;
       width: 100%;
       left: 0%;
