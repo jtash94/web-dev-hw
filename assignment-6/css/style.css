@@ -19,20 +19,17 @@ body {
     .container {
       opacity: 10;
       height: 200px;
-      margin-right: 50px;
-      margin-left:50px;
-      margin-top: 5px;
+      width: 50%;
       size: 700px !important;
-
+      align: center;
       }
 
       .reversed {
         opacity: .75;
         height: 180px;
-        margin-left: 50px;
-        margin-right: 50px;
-        margin-top: 20px;
+        width: 50%;
         size: 700px !important;
+        align: center;
       }
 
       .frame {
