@@ -34,6 +34,9 @@ body  {
         opacity: .75;
         height: 100%;
         width: 100%;
+        left: 0%;
+        right: 0%;
+        margin: auto;
         position: absolute;
         z-index: 2;
       }
@@ -41,10 +44,11 @@ body  {
       .frame {
 
 
-        position: absolute;
+        position: relative;
         z-index:3;
         left: 0%;
         right: 0%;
         margin: auto;
+        padding: 50px;
 
       }
