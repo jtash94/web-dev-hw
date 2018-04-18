@@ -34,10 +34,6 @@ body  {
         opacity: .75;
         height: 100%;
         width: 100%;
-        left-margin: auto;
-        right-margin: auto;
-        top-margin: auto;
-        bottom-margin: auto;
         position: absolute;
         z-index: 2;
       }
@@ -49,7 +45,7 @@ body  {
         z-index:3;
         height: 50%;
         width: 50%;
-        left: 50%;
-        right: 50%;
+        left-margin: 20px auto;
+        right-margin: 20px auto;
 
       }
