@@ -50,7 +50,8 @@ body  {
         margin-top: 25px;
         margin-right: 10px;
         margin-left: 10px;
-        width: 70%;
+        left: 100px;
+        width: 40%;
         z-index: 2;
         background-color: rgb(255,192,203);
       }
