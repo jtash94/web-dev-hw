@@ -21,19 +21,19 @@ body  {
       opacity: 10;
       height: 50% !important;
       width: 100% !important;
-      margin-right: auto;
-      margin-left: auto;
-      display: block;
-      
+      margin-right: 20px;
+      margin-left: 20px;
+      position: relative;
+
       }
 
       .reversed {
         opacity: .75;
         height: 50% !important;
         width: 100% !important;
-        margin-right: auto;
-        margin-left: auto;
-        display: block;
+        margin-right: 20px;
+        margin-left: 20px;
+        position: relative;
       }
 
       .frame {
