@@ -17,7 +17,7 @@ body  {
 
     .container {
       opacity: 10;
-      height: 50% !important;
+      height: 100% !important;
       width: 100% !important;
       align-content: stretch;
       position: absolute;
@@ -27,8 +27,8 @@ body  {
 
       .reversed {
         opacity: .75;
-        height: 50% !important;
-        width: 100% !important;
+        height: 80% !important;
+        width: 80% !important;
         align-content: stretch;
         position: absolute;
         z-index: 1;
@@ -38,8 +38,8 @@ body  {
 
         position: absolute;
         z-index: 2;
-        bottom: 500px;
-        left: 500px;
+        height: 70%;
+        width: 70%;
         align-content: center
 
       }
