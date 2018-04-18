@@ -22,7 +22,7 @@ body  {
       right: 5%;
       left: 5%;
       border-left: 2px solid rgb(255,192,203);
-
+      opacity: .5;
   }
 
     .container {
