@@ -15,6 +15,7 @@
   font-style: normal;
   font-kerning: normal;
 
+
 }
 
 @font-face {
@@ -23,4 +24,8 @@
   font-size: 24px;
   font-style: normal;
   font-weight: normal;
+}
+.paragraphs p: first-letter {
+  color: red;
+  font-size: 24px;
 }
