@@ -25,5 +25,10 @@ body {
   font-style: normal;
   text-align: left;
   letter-spacing: 1px;
-
 }
+
+  .paragraphs p:first-child::first-line {
+    color: red;
+    text-size: 20px;
+
+  }
