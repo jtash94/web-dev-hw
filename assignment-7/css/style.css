@@ -4,7 +4,7 @@ body {
 }
 
 .headingone {
-  font-family: 'Playfair Display', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 600;
   font-style: italic;
   text-align: left;
@@ -12,7 +12,7 @@ body {
 }
 
 .headingtwo {
-  font-family: 'Playfair_Display', sans-serif;
+  font-family: 'Playfair_Display', serif;
   font-weight: 900;
   font-style: normal;
   text-align: center;
@@ -49,5 +49,5 @@ body {
   a:active {
     color: red;
     font-size: 24px;
-  
+
   }
