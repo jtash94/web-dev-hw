@@ -39,7 +39,7 @@ body {
   }
 
   a:link {
-    color: green;
+
     text-decoration: underline;
       }
   a:visited {
@@ -48,7 +48,7 @@ body {
     }
     a:hover {
       color:dark blue;
-      text-style: italic;
+      font-style: italic;
     }
   a:active {
     color: red;
