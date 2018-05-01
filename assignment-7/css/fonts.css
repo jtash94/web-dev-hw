@@ -25,7 +25,8 @@
   font-style: normal;
   font-weight: normal;
 }
-.paragraphs p: first-letter {
+.paragraphs p: first-child::first-letter {
   color: red;
   font-size: 24px;
+  font-style: bold;
 }
