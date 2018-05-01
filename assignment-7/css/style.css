@@ -2,3 +2,8 @@ body {
   background-color: rgb(176,196,222);
   opacity: .75;
 }
+
+.headingone {
+  font-family: 'Playfair Display', serif;
+  font-family: 'Noto Serif', serif;
+}
