@@ -8,6 +8,7 @@ body {
   font-weight: 600;
   font-style: italic;
   text-align: left;
+
 }
 
 .headingtwo {
@@ -19,7 +20,7 @@ body {
 }
 
 .paragraphs {
-  font-family: 'Noto_Serif', sans-serif;
+  font-family: 'Noto_Serif';
   font-weight: normal;
   font-style: normal;
   text-align: left;
