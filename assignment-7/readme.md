@@ -15,4 +15,4 @@ font, or does something weird to it, so it defaults to the second in the stack. 
 I started by looking at my own past assignments to recall some formatting things, <br> and then I started reading/watching all materials. Then I picked my text <br>
 excerpt, inputted it into my index.html, did the stylesheet, and then the font <br> sheet. I had a hard time understanding @fontface, but I got it after some <br>
 trial and error.
-<img src="assignment-7/screenshot7.png" width="400" height="300">
+<img src="images/screenshot7.png" width="400" height="300">
