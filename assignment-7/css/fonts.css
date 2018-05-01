@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Playfair_Display';
-  src: url('https://fonts.googleapis.com/css?family=Playfair+Display');
+  src: url('../fonts/PlayfairDisplay-italic.ttf')
   font-weight: normal;
   font-style: italic;
   font-kerning; normal;
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'Noto_Serif';
-  src: url('https://fonts.googleapis.com/css?family=Noto+Serif');
+  src: url('../fonts/NotoSerif-regular.ttf')
   font-weight: normal;
   font-style: normal;
   font-kerning: normal;
