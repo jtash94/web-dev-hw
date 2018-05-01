@@ -44,7 +44,7 @@ body {
     }
     a:hover {
       color:dark blue;
-
+      text-style: italic;
     }
   a:active {
     color: red;
