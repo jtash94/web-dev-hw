@@ -4,6 +4,7 @@ body {
 }
 
 .headingone {
-  font-family: 'Playfair Display', serif;
-  font-family: 'Noto Serif', serif;
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 900;
+  font style: italic;
 }
