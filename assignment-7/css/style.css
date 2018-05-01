@@ -6,11 +6,21 @@ body {
 .headingone {
   font-family: 'Playfair Display', sans-serif;
   font-weight: 600;
-  font style: italic;
-  text-align: center;
+  font-style: italic;
+  text-align: left;
 }
 
 .headingtwo {
-  
+  font-family: 'Playfair_Display', sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  text-align: center;
 
+}
+
+.paragraphs {
+  font-family: 'Noto_Serif', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
 }
