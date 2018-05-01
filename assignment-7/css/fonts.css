@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Playfair_Display';
-  src: url('../fonts/PlayfairDisplay-italic.ttf')
+  src: url('../fonts/PlayfairDisplay-italic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
   font-kerning; normal;
@@ -10,9 +10,17 @@
 
 @font-face {
   font-family: 'Noto_Serif';
-  src: url('../fonts/NotoSerif-regular.ttf')
+  src: url('../fonts/NotoSerif-regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-kerning: normal;
 
+}
+
+@font-face {
+  font-family:'Slabo 27px', serif;
+  src: url('https://fonts.googleapis.com/css?family=Slabo+27px');
+  font-size: 24px;
+  font-style: normal;
+  font-weight: normal;
 }
