@@ -42,7 +42,7 @@ body {
     }
 
     .paragraph2 {
-      position: relative;
+      position: absolute;
       left: 300px;
       top: 120px;
       top-margin: 120px;
