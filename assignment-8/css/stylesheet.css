@@ -21,6 +21,8 @@ body {
 }
 
 .ladypicture {
-  position: relative;
+  position: absolute;
   left: 400px;
+  top: 50px;
+  max-width: 200px;
   }
