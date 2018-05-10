@@ -18,15 +18,15 @@ body {
   text-align: center;
   max-height: 30px;
   max-width: 80px;
-  position: absolute;
+  position: relative;
   z-index: 5;
-  left: 400px;
+  left: 200px;
   top: 30px;
 }
 
 .ladypicture {
-  position: absolute;
-  left: 350px;
+  position: relative;
+  left: 5px;
   top: 50px;
   max-width: 180px;
   z-index: 4;
