@@ -16,3 +16,9 @@ body {
   font-weight: normal;
 
 }
+
+.ladypicture {
+  float: left;
+  z-index: 5;
+}
+]
