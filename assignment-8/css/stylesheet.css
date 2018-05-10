@@ -23,7 +23,7 @@ body {
 }
 
 .ladypicture {
-  position: relative;
+  position: absolute;
   left: 5px;
   top: 30px;
   z-index: 7;
