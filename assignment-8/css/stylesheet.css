@@ -14,12 +14,12 @@ body {
 .headone {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 20px;
-  font-weight: normal;
+  font-style: ThinItalic;
   position: relative;
   left: 180px;
   top: 30px;
   z-index: 7;
-  font-style: ThinItalic;
+
 }
 
 .ladypicture {
@@ -34,6 +34,6 @@ body {
   .paragraph1 {
     position: relative;
     left: 200px;
-    top: 100px;
+    top: 0px;
     z-index: 6;
   }
