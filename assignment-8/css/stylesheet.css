@@ -33,7 +33,7 @@ body {
   .paragraph1 {
     position: absolute;
     left: 300px;
-    top: 130px;
+    top: 120px;
     z-index: 9;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 32px;
