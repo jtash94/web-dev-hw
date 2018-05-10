@@ -33,18 +33,17 @@ body {
   .paragraph1 {
     position: relative;
     left: 300px;
-    top: 80px;
+    top: 100px;
     z-index: 9;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 32px;
-    max-width: 650px;
-
+    
     }
 
     .paragraph2 {
       position: relative;
       left: 300px;
-      top: 100px;
+      top: 120px;
       z-index:9;
       font-family: 'Josefin Sans', sans-serif;
       font-size: 20px;
