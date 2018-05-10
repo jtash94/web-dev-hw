@@ -3,7 +3,7 @@
   font-family: 'Josefin Sans';
   src: url('../fonts/JosefinSans-ThinItalic.ttf') format('opentype');
   font-weight: normal;
-  font-style; thinitalic;
+  font-style: ThinItalic;
 
 }
 body {
@@ -19,13 +19,14 @@ body {
   left: 180px;
   top: 30px;
   z-index: 7;
+  font-style: ThinItalic;
 }
 
 .ladypicture {
   position: relative;
   left: 5px;
   top: 30px;
-  
+
   z-index: 8;
 
   }
