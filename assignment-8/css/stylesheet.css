@@ -1,9 +1,9 @@
 body {
   background-color: #FDFDF1
   left-margin: -5px;
-  right-margin: 400px;
+
   top-margin: 5px;
-  padding-right: 20px;
+  padding-right: 400px;
 }
 
 @font-face {
