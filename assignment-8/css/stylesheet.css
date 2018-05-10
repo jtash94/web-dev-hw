@@ -15,7 +15,7 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 30px;
   font-style: Italic;
-  position: relative;
+  position: absolute;
   left: 190px;
   top: 40px;
   z-index: 7;
