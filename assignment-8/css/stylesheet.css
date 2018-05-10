@@ -37,4 +37,7 @@ body {
     z-index: 9;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
+    padding: 3em;
+    color: black;
+    font-color: white;
   }
