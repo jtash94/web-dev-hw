@@ -33,12 +33,9 @@ body {
   .paragraph1 {
     position: relative;
     left: 300px;
-    top: 300px;
+    top: 150px;
     z-index: 9;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 32px;
-    padding: 3em;
-    color: black;
-    font-color: white;
-    font-style: italic;
+
     }
