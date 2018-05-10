@@ -3,7 +3,7 @@
   font-family: 'Josefin Sans';
   src: url('../fonts/JosefinSans-ThinItalic.ttf') format('opentype');
   font-weight: normal;
-  font-style; normal;
+  font-style; thinitalic;
 
 }
 body {
@@ -15,7 +15,6 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 20px;
   font-weight: normal;
-
   position: relative;
   left: 180px;
   top: 30px;
