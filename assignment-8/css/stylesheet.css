@@ -1,9 +1,3 @@
-body {
-  background-color: #FDFDF1
-  left-margin: -5px;
-  top-margin: 5px;
-
-}
 
 @font-face {
   font-family: 'Josefin Sans';
@@ -12,6 +6,12 @@ body {
   font-style; normal;
 
 }
+body {
+  background-color: #FDFDF1
+
+
+}
+
 
 .headone {
   font-family: 'Josefin Sans', sans-serif;
@@ -20,7 +20,7 @@ body {
   text-align: center;
   margin-right: 400px;
   z-index: 5;
-  position: absolute;
+  
 }
 
 .ladypicture {
