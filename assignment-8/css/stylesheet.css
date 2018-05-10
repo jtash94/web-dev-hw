@@ -35,4 +35,6 @@ body {
     left: 300px;
     top: 300px;
     z-index: 9;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
   }
