@@ -13,11 +13,11 @@ body {
 
 .headone {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 20px;
+  font-size: 30px;
   font-style: Italic;
   position: relative;
-  left: 180px;
-  top: 30px;
+  left: 190px;
+  top: 40px;
   z-index: 7;
 
 }
@@ -33,6 +33,6 @@ body {
   .paragraph1 {
     position: absolute;
     left: 200px;
-    top: 60px;
+    top: 100px;
     z-index: 6;
   }
