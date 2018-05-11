@@ -142,9 +142,9 @@ body {
       .mailin {
         position: absolute;
         left: 300px;
-        bottom: 10px;
+        bottom: 5px;
         z-index: 20;
-        font-size: 14px;
+        font-size: 12px;
         font-family: 'Work Sans', serif;
         max-height: 50px;
       }
@@ -180,7 +180,7 @@ body {
       .optional {
         position: absolute;
         left: 2px;
-        bottom: 10px;
+        bottom: 5px;
         max-height: 90px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
