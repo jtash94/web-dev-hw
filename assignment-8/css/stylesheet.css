@@ -116,7 +116,7 @@ body {
       .copy {
         position: absolute;
         left: 310px;
-        top: 500px;
+        top: 450px;
         max-height: 80px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 16px;
@@ -171,7 +171,7 @@ body {
       .attachment {
         position: absolute;
         left: 2px;
-        top: 600px;
+        top: 620px;
         max-height: 88px;
         max-width: 100px;
       }
@@ -179,7 +179,7 @@ body {
       .optional {
         position: absolute;
         left: 2px;
-        bottom: 100px;
+        bottom: 200px;
         max-height: 90px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
