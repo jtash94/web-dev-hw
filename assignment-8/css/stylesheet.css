@@ -126,7 +126,7 @@ body {
       .logo {
         position: absolute;
         left: 250px;
-        bottom: 250px;
+        bottom: 100px;
         max-height: 85px;
         z-index: 16;
       }
@@ -134,7 +134,7 @@ body {
       .guarantee {
         position: absolute;
         left: 400px;
-        bottom: 200px;
+        bottom: 100px;
         max-height: 50px;
         z-index: 17;
       }
@@ -155,6 +155,7 @@ body {
         top: 400px;
         max-height: 88px;
         max-width: 100px;
+        padding: 2em;
       }
 
       .cleaner {
@@ -171,7 +172,7 @@ body {
       .attachment {
         position: absolute;
         left: 2px;
-        top: 620px;
+        bottom: 100px;
         max-height: 88px;
         max-width: 100px;
       }
