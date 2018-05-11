@@ -63,11 +63,21 @@ body {
 
      .paragraphhonest {
        position: absolute;
-       left: 360px;
+       left: 340px;
        top: 320px;
        max-height: 65px;
        z-index: 12;
      }
 
-
+     .vacdustpic {
+       position: absolute;
+       left: 300px;
+       top: 400px;
+       max-height: 65px;
+       z-index: 13;
      }
+      .paragraphglory {
+      position: absolute;
+      left: 380px;
+      top: 420px;
+      }
