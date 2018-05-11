@@ -56,11 +56,18 @@ body {
      .bagvacpic {
        position: absolute;
        left: 300px;
-       top: 400px;
+       top: 320px;
        max-height: 65px;
        z-index: 11;
      }
 
+     .paragraphhonest {
+       position: absolute;
+       left: 360px;
+       top: 320px;
+       max-height: 65px;
+       z-index: 12;
+     }
 
 
      }
