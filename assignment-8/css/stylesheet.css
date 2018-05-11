@@ -109,3 +109,26 @@ body {
         font-size: 16px;
         font-style: normal;
       }
+
+      .logo {
+        position: absolute;
+        left: 280px;
+        top: 550px;
+        max-height: 85px;
+        z-index: 16;
+      }
+
+      .guarantee {
+        position: absolute;
+        left: 350px;
+        top: 600px
+        max-height: 75px;
+        z-index: 15;
+      }
+
+      .mailin {
+        position: absolute;
+        left: 300px;
+        bottom: 50px;
+        z-index: 14;
+      }
