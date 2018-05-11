@@ -61,6 +61,7 @@ body {
        left: 300px;
        top: 400px;
        max-height: 65px;
+       z-index: 11;
      }
 
 
