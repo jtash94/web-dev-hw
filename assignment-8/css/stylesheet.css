@@ -98,7 +98,7 @@ body {
       .throwoutpic {
         position: absolute;
         left: 300px;
-        top: 345px;
+        top: 335px;
         max-height: 65px;
         z-index: 15;
       }
@@ -106,7 +106,7 @@ body {
       .paragraphwhee {
         position: absolute;
         left: 380px;
-        top: 335px;
+        top: 325px;
         max-height: 65px;
         z-index: 15;
         font-family: 'Work Sans', serif;
@@ -173,9 +173,8 @@ body {
       .attachment {
         position: absolute;
         left: 2px;
-        bottom: 100px;
-        max-height: 88px;
-        max-width: 100px;
+        bottom: 110px;
+
       }
 
       .optional {
