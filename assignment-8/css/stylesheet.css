@@ -87,7 +87,7 @@ body {
       .throwoutpic {
         position: absolute;
         left: 300px;
-        top: 365px;
+        top: 355px;
         max-height: 65px;
         z-index: 15;
       }
@@ -95,7 +95,7 @@ body {
       .paragraphwhee {
         position: absolute;
         left: 380px;
-        top: 365px;
+        top: 345px;
         max-height: 65px;
         z-index: 15;
       }
