@@ -142,11 +142,11 @@ body {
       .mailin {
         position: absolute;
         left: 300px;
-        bottom: 15px;
+        bottom: 5px;
         z-index: 22;
         font-size: 11px;
         font-family: 'Work Sans', serif;
-        padding: 2em;
+        padding: 1em;
         border: black;
         border-style: dashed;
       }
@@ -185,5 +185,5 @@ body {
         bottom: 5px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
-        padding: 2em;
+
       }
