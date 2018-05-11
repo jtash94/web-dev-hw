@@ -117,9 +117,9 @@ body {
         position: absolute;
         left: 250px;
         top: 450px;
-        max-height: 80px;
+        max-height: 65px;
         font-family: 'Josefin Sans', sans-serif;
-        font-size: 16px;
+        font-size: 12px;
         font-style: normal;
       }
 
@@ -142,11 +142,11 @@ body {
       .mailin {
         position: absolute;
         left: 300px;
-        bottom: 100px;
+        bottom: 10px;
         z-index: 20;
         font-size: 14px;
         font-family: 'Work Sans', serif;
-
+        max-height: 50px;
       }
 
       .scene {
@@ -179,7 +179,7 @@ body {
       .optional {
         position: absolute;
         left: 2px;
-        bottom: 200px;
+        bottom: 10px;
         max-height: 90px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
