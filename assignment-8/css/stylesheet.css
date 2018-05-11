@@ -122,7 +122,7 @@ body {
         font-size: 12px;
       }
 
-      .paragraphwhee p::first-letter {
+      .paragraphwhee p::first-line {
         color: #ED1701;
         font-size: 16px;
       }
@@ -179,7 +179,7 @@ body {
       .cleaner {
         position: absolute;
         left: 2px;
-        top: 515px;
+        top: 480px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
 
