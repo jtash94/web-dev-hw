@@ -121,12 +121,13 @@ body {
         font-family: 'Josefin Sans', sans-serif;
         font-size: 12px;
         font-style: normal;
+        z-index: 15;
       }
 
       .logo {
         position: absolute;
         left: 250px;
-        bottom: 80px;
+        bottom: 150px;
         max-height: 85px;
         z-index: 16;
       }
