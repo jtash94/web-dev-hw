@@ -140,10 +140,10 @@ body {
         top: 440px;
         max-height: 65px;
         font-family: 'Georgia', serif;
-        font-size: 12px;
-        font-style: normal;
+        font-size: 13px;
+        font-style: bold;
         z-index: 18;
-        word-spacing: 1.5px;
+        word-spacing: 2px;
       }
 
       .logo {
@@ -157,7 +157,7 @@ body {
       .guarantee {
         position: absolute;
         right: 180px;
-        bottom: 100px;
+        bottom: 120px;
 
         z-index: 17;
       }
