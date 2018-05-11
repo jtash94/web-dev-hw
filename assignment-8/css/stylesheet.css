@@ -169,8 +169,8 @@ body {
       .scene {
         position: absolute;
         left: 2px;
-        top: 380px;
-        max-height: 88px;
+        top: 360px;
+        max-height: 78px;
         max-width: 100px;
         z-index: 6;
 
