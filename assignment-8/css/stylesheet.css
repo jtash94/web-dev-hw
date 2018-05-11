@@ -41,7 +41,7 @@ body {
     font-style: Italic;
     padding: 2em;
     background-color: black;
-    font-color: white;
+    font color: white;
 
     }
 
@@ -53,6 +53,16 @@ body {
       font-family: 'Josefin Sans', sans-serif;
       font-size: 20px;
       z-index: 9;
-      ;
+
 
     }
+     .bagvacpic {
+       position: absolute;
+       left: 300px;
+       top: 400px;
+       max-height: 65px;
+     }
+
+
+
+     }
