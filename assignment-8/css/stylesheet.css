@@ -99,3 +99,13 @@ body {
         max-height: 65px;
         z-index: 15;
       }
+
+      .copy {
+        position: absolute;
+        left: 310px;
+        top: 415px;
+        max-height: 80px;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+      }
