@@ -13,13 +13,20 @@
   font-weight: normal;
 
 }
+
+@@font-face {
+  font-family: 'Londrina Solid';
+  src: url('../fonts/LondrinaSolid-Black.ttf') format('opentype');
+  font-weight: normal;
+  }
+
 body {
   background-color: #FDFDF1
 }
 
 
 .headone {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Londrina Solid', sans-serif;
   font-size: 35px;
   font-style: Bold;
   position: absolute;
@@ -132,7 +139,7 @@ body {
         left: 300px;
         top: 440px;
         max-height: 65px;
-        font-family: 'Josefin Sans', sans-serif;
+        font-family: 'Georgia', serif;
         font-size: 12px;
         font-style: normal;
         z-index: 18;
@@ -164,6 +171,7 @@ body {
         padding: 1em;
         border: black;
         border-style: dashed;
+        color: #303544;
       }
 
       .scene {
@@ -182,6 +190,7 @@ body {
         top: 480px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
+        color: #303F44;
 
 
       }
@@ -199,5 +208,5 @@ body {
         bottom: 5px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
-
+        color: #303544
       }
