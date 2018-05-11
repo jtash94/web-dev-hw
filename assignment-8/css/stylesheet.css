@@ -6,6 +6,13 @@
 
 
 }
+
+@font-face {
+  font-family: 'Work Sans';
+  src: url('../fonts/WorkSans-light.ttf') format('opentype');
+  font-weight: normal;
+
+}
 body {
   background-color: #FDFDF1
 }
@@ -106,14 +113,14 @@ body {
         top: 500px;
         max-height: 80px;
         font-family: 'Josefin Sans', sans-serif;
-        font-size: 12px;
+        font-size: 16px;
         font-style: normal;
       }
 
       .logo {
         position: absolute;
         left: 250px;
-        bottom: 145px;
+        bottom: 250px;
         max-height: 85px;
         z-index: 16;
       }
@@ -121,7 +128,7 @@ body {
       .guarantee {
         position: absolute;
         left: 350px;
-        bottom: 200px;
+        bottom: 230px;
         max-height: 75px;
         z-index: 15;
       }
@@ -129,9 +136,11 @@ body {
       .mailin {
         position: absolute;
         left: 300px;
-        bottom: 10px;
+        bottom: 100px;
         z-index: 14;
-        font-size: 12px;
+        font-size: 14px;
+        font-family: 'Work Sans';
+
       }
 
       .scene {
@@ -145,7 +154,7 @@ body {
       .cleaner {
         position: absolute;
         left: 2px;
-        top: 450px;
+        top: 500px;
         max-height: 88px;
         max-width: 100px;
         font-family: 'Josefin Sans', sans-serif;
@@ -156,7 +165,7 @@ body {
       .attachment {
         position: absolute;
         left: 2px;
-        top: 550px;
+        top: 600px;
         max-height: 88px;
         max-width: 100px;
       }
@@ -164,7 +173,7 @@ body {
       .optional {
         position: absolute;
         left: 2px;
-        bottom: 10px;
+        bottom: 100px;
         max-height: 90px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
