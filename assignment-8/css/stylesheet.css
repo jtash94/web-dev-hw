@@ -39,7 +39,7 @@ body {
 
   .paragraph1 {
     position: absolute;
-    left: 300px;
+    left: 250px;
     top: 110px;
     z-index: 10;
     font-family: 'Josefin Sans', sans-serif;
@@ -51,7 +51,7 @@ body {
 
     .paragraph2 {
       position: absolute;
-      left: 300px;
+      left: 250px;
       top: 160px;
       max-height: 30px;
       font-family: 'Josefin Sans', sans-serif;
@@ -74,7 +74,7 @@ body {
        top: 200px;
        max-height: 65px;
        z-index: 12;
-       font-family: 'Work Sans';
+       font-family: 'Work Sans' serif;
        font-size: 12px;
      }
 
@@ -91,7 +91,7 @@ body {
       top: 265px;
       max-height: 65px;
       z-index: 14;
-      font-family: 'Work Sans';
+      font-family: 'Work Sans', serif;
       font-size: 12px;
       }
 
@@ -109,13 +109,13 @@ body {
         top: 345px;
         max-height: 65px;
         z-index: 15;
-        font-family: 'Work Sans';
+        font-family: 'Work Sans', serif;
         font-size: 12px;
       }
 
       .copy {
         position: absolute;
-        left: 310px;
+        left: 250px;
         top: 450px;
         max-height: 80px;
         font-family: 'Josefin Sans', sans-serif;
@@ -133,10 +133,10 @@ body {
 
       .guarantee {
         position: absolute;
-        left: 350px;
+        left: 400px;
         bottom: 200px;
-        max-height: 75px;
-        z-index: 15;
+        max-height: 50px;
+        z-index: 17;
       }
 
       .mailin {
@@ -145,7 +145,7 @@ body {
         bottom: 100px;
         z-index: 20;
         font-size: 14px;
-        font-family: 'Work Sans';
+        font-family: 'Work Sans', serif;
 
       }
 
