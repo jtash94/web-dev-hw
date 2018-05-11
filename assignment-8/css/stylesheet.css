@@ -137,7 +137,7 @@ body {
       .scene {
         position: absolute;
         left: 2px;
-        top: 600px;
+        top: 500px;
         max-height: 88px;
         max-width: 100px;
       }
@@ -145,9 +145,27 @@ body {
       .cleaner {
         position: absolute;
         left: 2px;
-        top: 650px;
+        top: 550px;
         max-height: 88px;
         max-width: 100px;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 10px;
+        padding: 2em;
+      }
+
+      .attachment {
+        position: absolute;
+        left: 2px;
+        bottom: 250px;
+        max-height: 88px;
+        max-width: 100px;
+      }
+
+      .optional {
+        position: absolute;
+        left: 2px;
+        bottom: 10px;
+        max-height: 90px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
         padding: 2em;
