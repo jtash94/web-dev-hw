@@ -177,12 +177,12 @@ body {
 
       .scene {
         position: absolute;
-        left: 2px;
+        float: left;
         top: 360px;
         max-height: 78px;
         max-width: 100px;
         z-index: 6;
-
+        
       }
 
       .cleaner {
