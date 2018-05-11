@@ -31,7 +31,8 @@ body {
   font-style: normal;
   position: absolute;
   left: 190px;
-  top: 20px;
+  top: 10px;
+  max-height: 38px;
   z-index: 8;
 
 }
