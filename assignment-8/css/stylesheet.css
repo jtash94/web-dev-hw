@@ -133,3 +133,21 @@ body {
         z-index: 14;
         font-size: 12px;
       }
+
+      .scene {
+        position: absolute;
+        left: 2px;
+        top: 550px;
+        max-height: 88px;
+        max-width: 100px;
+      }
+
+      .cleaner {
+        position: absolute;
+        left: 2px;
+        bottom: 350px;
+        max-height: 88px;
+        max-width: 100px;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 10px;
+      }
