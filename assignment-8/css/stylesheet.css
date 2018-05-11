@@ -74,6 +74,8 @@ body {
        top: 200px;
        max-height: 65px;
        z-index: 12;
+       font-family: 'Work Sans';
+       font-size: 12px;
      }
 
      .vacdustpic {
@@ -89,6 +91,8 @@ body {
       top: 265px;
       max-height: 65px;
       z-index: 14;
+      font-family: 'Work Sans';
+      font-size: 12px;
       }
 
       .throwoutpic {
@@ -105,6 +109,8 @@ body {
         top: 345px;
         max-height: 65px;
         z-index: 15;
+        font-family: 'Work Sans';
+        font-size: 12px;
       }
 
       .copy {
