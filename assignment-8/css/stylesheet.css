@@ -121,7 +121,7 @@ body {
       .guarantee {
         position: absolute;
         left: 350px;
-        top: 700px;
+        bottom: 200px;
         max-height: 75px;
         z-index: 15;
       }
