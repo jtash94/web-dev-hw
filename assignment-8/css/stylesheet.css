@@ -143,6 +143,7 @@ body {
         font-size: 12px;
         font-style: normal;
         z-index: 18;
+        word-spacing: 1.5px;
       }
 
       .logo {
