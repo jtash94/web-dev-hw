@@ -83,3 +83,19 @@ body {
       max-height: 65px;
       z-index: 14;
       }
+
+      .throwoutpic {
+        position: absolute;
+        left: 300px;
+        top: 300px;
+        max-height: 65px;
+        z-index: 15;
+      }
+
+      .paragraphwhee {
+        position: absolute;
+        left: 380px;
+        top: 365px;
+        max-height: 65px;
+        z-index: 15;
+      }
