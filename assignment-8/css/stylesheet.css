@@ -76,6 +76,12 @@ body {
        z-index: 12;
        font-family: 'Work Sans' serif;
        font-size: 12px;
+
+     }
+     .paragraphhonest p::first-line {
+       color: #ED1701;
+       font-size: 16px;
+
      }
 
      .vacdustpic {
@@ -94,7 +100,10 @@ body {
       font-family: 'Work Sans', serif;
       font-size: 12px;
       }
-
+      .paragraphglory p::first-line {
+        color: #ED1701;
+        font-size: 16px;
+      }
       .throwoutpic {
         position: absolute;
         left: 300px;
@@ -111,6 +120,11 @@ body {
         z-index: 15;
         font-family: 'Work Sans', serif;
         font-size: 12px;
+      }
+
+      .paragraphwhee p::first-letter {
+        color: #ED1701;
+        font-size: 16px;
       }
 
       .copy {
