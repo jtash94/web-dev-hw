@@ -74,7 +74,7 @@ body {
        top: 200px;
        max-height: 65px;
        z-index: 12;
-       font-family: 'Work Sans' serif;
+       font-family: 'Work Sans' sans-serif;
        font-size: 12px;
 
      }
@@ -97,7 +97,7 @@ body {
       top: 265px;
       max-height: 65px;
       z-index: 14;
-      font-family: 'Work Sans', serif;
+      font-family: 'Work Sans', sans-serif;
       font-size: 12px;
       }
       .paragraphglory p::first-line {
@@ -118,7 +118,7 @@ body {
         top: 325px;
         max-height: 65px;
         z-index: 15;
-        font-family: 'Work Sans', serif;
+        font-family: 'Work Sans', sans-serif;
         font-size: 12px;
       }
 
@@ -160,7 +160,7 @@ body {
         bottom: 5px;
         z-index: 22;
         font-size: 11px;
-        font-family: 'Work Sans', serif;
+        font-family: 'Work Sans', sans-serif;
         padding: 1em;
         border: black;
         border-style: dashed;
@@ -169,19 +169,21 @@ body {
       .scene {
         position: absolute;
         left: 2px;
-        top: 400px;
+        top: 380px;
         max-height: 88px;
         max-width: 100px;
-        padding: 2em;
+        z-index: 6;
+
       }
 
       .cleaner {
         position: absolute;
         left: 2px;
-        top: 525px;
+        top: 515px;
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
-        padding: 2em;
+
+
       }
 
       .attachment {
