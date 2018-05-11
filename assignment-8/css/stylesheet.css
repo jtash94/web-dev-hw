@@ -145,7 +145,7 @@ body {
       .cleaner {
         position: absolute;
         left: 2px;
-        bottom: 350px;
+        top: 600px;
         max-height: 88px;
         max-width: 100px;
         font-family: 'Josefin Sans', sans-serif;
