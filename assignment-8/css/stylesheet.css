@@ -163,7 +163,7 @@ body {
       .cleaner {
         position: absolute;
         left: 2px;
-        top: 500px;
+        top: 525px;
         max-height: 88px;
         max-width: 100px;
         font-family: 'Josefin Sans', sans-serif;
@@ -183,7 +183,7 @@ body {
         position: absolute;
         left: 2px;
         bottom: 5px;
-        max-height: 90px;
+
         font-family: 'Josefin Sans', sans-serif;
         font-size: 10px;
         padding: 2em;
