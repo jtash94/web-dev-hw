@@ -112,8 +112,8 @@ body {
 
       .logo {
         position: absolute;
-        left: 280px;
-        bottom: 170px;
+        left: 250px;
+        bottom: 145px;
         max-height: 85px;
         z-index: 16;
       }
@@ -137,7 +137,7 @@ body {
       .scene {
         position: absolute;
         left: 2px;
-        top: 500px;
+        top: 400px;
         max-height: 88px;
         max-width: 100px;
       }
@@ -145,7 +145,7 @@ body {
       .cleaner {
         position: absolute;
         left: 2px;
-        top: 550px;
+        top: 450px;
         max-height: 88px;
         max-width: 100px;
         font-family: 'Josefin Sans', sans-serif;
@@ -156,7 +156,7 @@ body {
       .attachment {
         position: absolute;
         left: 2px;
-        bottom: 250px;
+        top: 500px;
         max-height: 88px;
         max-width: 100px;
       }
